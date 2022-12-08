@@ -1,0 +1,19 @@
+---
+#irrigation.py yaml config file
+#for best results make sure that time intervals do not overlap!!
+
+Valve_1:
+  ON_time:  "21:30"
+  RUN_time: "600"
+Valve_2:
+  ON_time:  "21:45"
+  RUN_time: "600"
+Valve_3:
+  ON_time:  "22:00"
+  RUN_time: "600"
+Valve_4:
+  ON_time:  "22:15"
+  RUN_time: "600"
+
+
+  
